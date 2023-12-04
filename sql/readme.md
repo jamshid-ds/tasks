@@ -1,0 +1,1 @@
+-This file contains the initial code related to sql during data science studies
