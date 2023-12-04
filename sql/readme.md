@@ -1,5 +1,6 @@
 -This file contains the initial code related to sql during data science studies
-*MAIN SQL FUNCTIONS FOR DATA SCIENCE
+<br>
+**MAIN SQL FUNCTIONS FOR DATA SCIENCE**
 
 SELECT  - get data from db
 <br>
